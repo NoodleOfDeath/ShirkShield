@@ -20,3 +20,7 @@ $ open src/usb_receiver/usb_receiver.ino
 ![arduino ide](https://github.com/NoodleOfDeath/ShirkShield/blob/main/img/arduino.png?raw=true)
 
 You will need to program both devices separately using the Arduino IDE.
+
+## Schematics
+
+Schematics were designed using the [EasyEDA](https://easyeda.com/). The source files and exported Gerber files are included in the [schematics](https://github.com/NoodleOfDeath/ShirkShield/blob/main/schematics) directory.
