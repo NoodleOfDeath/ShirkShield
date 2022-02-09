@@ -1,11 +1,12 @@
 # ShirkShield
+
 A simple two component device that can lock a computer screen when a motion sensor is triggered
 
-# Quick Start
+## Quick Start
 
 First download the [Arduino IDE](https://www.arduino.cc/en/software)
 
-```
+```bash
 $ git clone https://github.com/NoodleOfDeath/ShirkShield
 remote: Enumerating objects: 4, done.
 remote: Counting objects: 100% (4/4), done.
